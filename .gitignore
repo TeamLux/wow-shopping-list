@@ -1,0 +1,17 @@
+# Created by http://www.gitignore.io
+
+### Dot files ###
+.*
+
+### Git ###
+!/.gitignore
+!/.gitmodules
+
+### Logs ###
+logs
+*.log
+
+### Runtime data ###
+pids
+*.pid
+*.seed
